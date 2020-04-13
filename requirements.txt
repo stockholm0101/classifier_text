@@ -1,0 +1,9 @@
+numpy
+jieba
+gensim
+scikit-learn
+matplotlib
+mlxtend
+xgboost
+tensorflow>=1.2.1
+keras
